@@ -46,7 +46,7 @@
  
 <a href = "https://www.linkedin.com/in/xbwafi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/xbwafi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/xbwafi"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/xb.wafi"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
