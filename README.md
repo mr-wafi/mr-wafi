@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Online E-Commerce**
+- 🔭 I’m currently working on **Mix Projects**
 
-- 🌱 I’m currently learning **Data Mining.**
+- 🌱 I’m currently learning **New Technologies**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **xbwafi@gmail.com**
 
-- ⚡ Fun fact **Pro Snooker Player, Pro Chess Player and Going to Gym Daily.**
+- ⚡ Fun fact **Pro Snooker Player, Pro Chess Player and and Boxer**
 
 ## 🚀 Languages and Tools:
 
@@ -46,7 +46,7 @@
  
 <a href = "https://www.linkedin.com/in/xbwafi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/xbwafi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/xb.wafi"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/xbwafi"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 
 </p>
