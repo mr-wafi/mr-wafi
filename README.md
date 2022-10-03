@@ -52,7 +52,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=raysultan">
+<a href="https://github.com/mr-wafi/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mr-wafi">
 </a>
 <a href="https://github.com/raysultan?tab=followers"><img src="https://img.shields.io/github/followers/raysultan?label=Followers&style=social" alt="GitHub Badge"></a>
